@@ -1,0 +1,29 @@
+header {
+    display: flex;
+    max-height: 15vh;
+    min-height: 102px;
+    background: darkblue;
+    border-bottom: solid #ff8d13 5px;
+    align-items: center;
+    justify-content: space-between;
+}
+
+section {
+    display: flex;
+    padding: 10px;
+    align-items: center;
+}
+
+i {
+    padding: 10px;
+}
+
+h2 {
+    font-size: 50px;
+    font-family: "Courier New";
+}
+
+a {
+    text-decoration: none;
+    color: #000;
+}

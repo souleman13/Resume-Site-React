@@ -1,0 +1,18 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Courier New";
+}
+
+main {
+  min-height: 75vh;
+  background: url("./images/shooting-stars.jpg") no-repeat;
+}
+
+.rowReverse{
+  flex-direction: row-reverse;
+}
+
+.boldText {
+  font-weight: 800;
+}

@@ -1,0 +1,20 @@
+.mainAbout {
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.aboutMediaCardStyle {
+    display: flex;
+    flex-flow: row;
+    width: 250px;
+    height: 250px;
+}
+
+.aboutCardStyle {
+    display: flex;
+    flex-flow: row;
+    width: 500px;
+    height: 250px;
+}

@@ -1,0 +1,6 @@
+footer {
+    display: flex;
+    height: 10vh;
+    background: darkblue;
+    border-top: solid #ff8d13 5px;
+}

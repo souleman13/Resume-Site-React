@@ -1,0 +1,19 @@
+.mainContact{
+    display: flex;
+    height: 75vh;
+    justify-content: flex-end;
+}
+
+fieldset {
+    border: 0px;
+}
+
+.formStepper {
+    width: 300px;
+    padding-right: 100px;
+    padding-top: 20px;
+}
+
+.stepperLabel {
+    color: white;
+}

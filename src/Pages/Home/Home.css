@@ -1,0 +1,15 @@
+.mainHome {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    align-items: flex-start;
+}
+.cardStyle{
+    display: flex;
+    width: 300px;
+
+}
+img{
+    width: 100%;
+    height: 250px;
+}
